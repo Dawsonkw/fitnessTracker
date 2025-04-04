@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="flex justify-center items-center bg-amber-400 h-screen mx-[10%] p-8]">
+    <div className="flex justify-center items-center bg-amber-400 h-[95vh]  mt-8 ml-8 mr-8 p-8 rounded-lg shadow-lg">
       <Container />
     </div>
   );
