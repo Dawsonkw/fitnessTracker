@@ -4,7 +4,7 @@ import SidebarContainer from "./SidebarContainer";
 import ActivityStatsContainer from "./ActivityStatsContainer";
 function Container() {
   return (
-    <div className="">
+    <div className="flex columns-4 ">
       <TopMenuContainer />
       <ActivitiesContainer />
       <SidebarContainer />
